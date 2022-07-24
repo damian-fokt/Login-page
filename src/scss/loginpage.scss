@@ -1,0 +1,11 @@
+.loginpage {
+	&__background {
+		background-image: url("./img/background.png");
+		background-size: cover;
+		height: 100vh;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
